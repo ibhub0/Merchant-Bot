@@ -491,3 +491,6 @@ Issues and pull requests are welcome. Keep the six-file layout, run `python -m p
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
+<p align="center">
+  <b>Channel Credits: <a href="https://t.me/cantarellabots">@cantarellabots</a></b>
+</p>
